@@ -1,0 +1,47 @@
+.T1 {
+    color: lightblue;
+    text-align: center;
+    font-size:5cm ;
+}
+.T2 {
+    text-align: center;
+}
+.T3 {
+    color: lightblue;
+    font-size: 1cm;
+}
+.T4{
+    color: lightblue;
+    font-size: 1cm;
+}
+.T5{
+    color: lightblue;
+    font-size: 1cm;
+}
+.T6{
+    font-size: 1cm;
+}
+.uruguay {
+    color: rgb(0, 140, 255);
+}
+.argentina{
+    color:lightblue
+}
+.brasil{
+    color: green
+}
+.chile{
+    color: red
+}
+.paraguay{
+    color: red
+}
+.peru{
+    color:red
+}
+.bolivia{
+    color: green
+}
+.colombia{
+    color: blue
+}
